@@ -1,3 +1,3 @@
 # PythonLearningNote
-猪可jin臭屁呀臭屁猪
+the first time to use github.
 TEST
